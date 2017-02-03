@@ -1,0 +1,94 @@
+body {
+	width: 1000px;
+	margin: auto;
+	background: rgb(248,243,224);
+	
+}
+
+img {
+	float: left;
+}
+
+
+.logo {
+	width: 900px;
+}
+
+.logo2 {
+	width: 900px;
+}
+
+div {
+	width: 400px;
+	float: left;
+	padding-bottom: 35px;
+}
+
+
+
+h3 {
+	font-size: 2em;
+	padding: 10px 0px 10px 5px;
+
+}
+
+p {
+	font-size: 1.2em;
+	line-height:1.5em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.mylove {
+	width: 900px;
+}
+
+.hewouldd {
+	width: 480px;
+	float: left;
+	padding-bottom: 100px;
+}
+
+.nyckids p {
+	width: 480px;
+	float: left;
+	padding-bottom: 50px;
+}
+
+.nyc {
+	width: 421px;
+	float: left;s
+}
+
+.creami p {
+     width: 480px;
+	float: left;
+	padding-bottom: 30px;
+}
+
+.creamm {
+	width: 421px;
+	float: left;
+}
+
+
+
+footer {
+	width: 900px;
+    
+    clear: both;
+    padding: 16px 0px 16px 0px;
+    background: #fdd0b8;
+}
+
+small {
+
+    clear: both;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 0.9em;
+    font-family: courier-new;
+    color: #ffffff
+}
+
